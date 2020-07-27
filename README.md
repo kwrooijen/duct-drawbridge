@@ -7,6 +7,7 @@
 `project.clj`
 
 ```clojure
+:dependencies [[kwrooijen/duct-drawbridge "0.1.0"]]
 :plugins [[duct/lein-duct "0.12.1"]
           [nrepl/drawbridge "0.2.1"]]
 ```
