@@ -1,4 +1,4 @@
-# Integrant drawbridge
+# Duct drawbridge
 
 [![Clojars Project](https://img.shields.io/clojars/v/duct-drawbridge.svg)](https://clojars.org/kwrooijen/duct-drawbridge)
 
